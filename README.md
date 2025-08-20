@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Aninakwa Apea, a versatile and results-driven IT specialist with strong expertise in full-stack web development, Iot, C++ and Python programming, and comprehensive PC diagnostics. Proven track record in delivering robust technical support for companies, including malware removal, system troubleshooting, and hardware maintenance. Adept at building responsive web applications using HTML, CSS, JavaScript, React, and backend technologies. Passionate about solving complex problems and optimizing systems for performance and security.
+I'm Aninakwa Apea, a versatile and results-driven IT specialist with strong expertise in full-stack web development, IoT, C++ and Python programming, and comprehensive PC diagnostics. Proven track record in delivering robust technical support for companies, including malware removal, system troubleshooting, and hardware maintenance. Adept at building responsive web applications using HTML, CSS, JavaScript, React, and backend technologies. Passionate about solving complex problems and optimizing systems for performance and security.
 <!--
 **Aninakwa/Aninakwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
